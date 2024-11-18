@@ -1,0 +1,26 @@
+{
+  "de_DE": {
+    "path": "de_DE",
+    "rev": "1578073",
+    "sha256": "1v8k4jqra9k6j8gvrd0x6xd94x7cdfpz505s67xfc1nlgqc15gs8",
+    "version": "6.6"
+  },
+  "fr_FR": {
+    "path": "fr_FR",
+    "rev": "1566738",
+    "sha256": "1x4sxs40fal6qlbj9x8f0wwbji20729l25axcxx62rd98y47llg5",
+    "version": "6.6"
+  },
+  "ro_RO": {
+    "path": "ro_RO",
+    "rev": "1578077",
+    "sha256": "0n3jjrvhlh5ajgl00w47fxiwhaff8v0lj0d9izb3rg55hllyiwwf",
+    "version": "6.6"
+  },
+  "ru_RU": {
+    "path": "ru_RU",
+    "rev": "1551262",
+    "sha256": "0d5bdq99h9g6pcs3fw7czb4w4p60cjiizxqlbzan4p1g9056mmbl",
+    "version": "6.6"
+  }
+}
