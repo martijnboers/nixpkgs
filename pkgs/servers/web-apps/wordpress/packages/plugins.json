@@ -41,11 +41,17 @@
     "sha256": "0hcvix71g2nh2yws0j3rll2dk3ybf39i04m7qz9yrnva6s17g6l6",
     "version": "3.2.1"
   },
+  "contact-form-7": {
+    "path": "contact-form-7/tags/6.0.1",
+    "rev": "3197954",
+    "sha256": "1a25psmy0ycb7ajy923rixg5m3qnv6yy9lkd90vfa63yrc9a752f",
+    "version": "6.0.1"
+  },
   "cookie-notice": {
-    "path": "cookie-notice/tags/2.4.18",
-    "rev": "3134111",
-    "sha256": "110g3jizsyy42vrzvhhzfdnvw6gx2vv2yn2kjgy3sspphzz0vdg8",
-    "version": "2.4.18"
+    "path": "cookie-notice/tags/2.5.3",
+    "rev": "3194942",
+    "sha256": "08n66wdllj71mlli3drzkvi51hk43r269mqxp4i9h9xjh5aj7r6l",
+    "version": "2.5.3"
   },
   "disable-xml-rpc": {
     "path": "disable-xml-rpc/tags/1.0.1",
@@ -66,10 +72,10 @@
     "version": "1.36.3"
   },
   "gutenberg": {
-    "path": "gutenberg/tags/19.6.4",
-    "rev": "3191501",
-    "sha256": "1rmdf0gqrv50vc5gw15w0xs6vw1fbpzvqa94nxiky34swr2bfmg7",
-    "version": "19.6.4"
+    "path": "gutenberg/trunk",
+    "rev": "3193419",
+    "sha256": "1769bs6ii9li6hskq0z5hfpa14h68vjlvj1902zqsg31azx7sqjc",
+    "version": "19.7.0"
   },
   "hcaptcha-for-forms-and-more": {
     "path": "hcaptcha-for-forms-and-more/tags/4.7.1",
@@ -114,10 +120,10 @@
     "version": "2.11"
   },
   "mailpoet": {
-    "path": "mailpoet/tags/5.3.7",
-    "rev": "3186516",
-    "sha256": "00xajzf3hvvhv0jvg6fagi0h64rsq60ccraj0xfxah6cs6zf5kr5",
-    "version": "5.3.7"
+    "path": "mailpoet/tags/5.4.1",
+    "rev": "3197388",
+    "sha256": "0w7gf3np76n90bylq2xg3zr3jm150v68apzr8ybpgy1s801cc0jx",
+    "version": "5.4.1"
   },
   "merge-minify-refresh": {
     "path": "merge-minify-refresh/trunk",
@@ -168,10 +174,10 @@
     "version": "1.2.3"
   },
   "webp-converter-for-media": {
-    "path": "webp-converter-for-media/tags/6.1.2",
-    "rev": "3190554",
-    "sha256": "1p97xrpijbb87fnb07hzf62aad6xx8f79a7jjw20g618x11adyli",
-    "version": "6.1.2"
+    "path": "webp-converter-for-media/tags/6.1.3",
+    "rev": "3192200",
+    "sha256": "10rz7r793p9zrsrxdsp88pwbn7y41yk1m4icja7zqqvba8dw42rz",
+    "version": "6.1.3"
   },
   "webp-express": {
     "path": "webp-express/tags/0.25.9",
@@ -180,10 +186,10 @@
     "version": "0.25.9"
   },
   "wordpress-seo": {
-    "path": "wordpress-seo/tags/23.8",
-    "rev": "3182123",
-    "sha256": "1i2j998wggpj5bapkzvwqpry1nji94qg1d19h39wmq1fyw0yiyka",
-    "version": "23.8"
+    "path": "wordpress-seo/tags/23.9",
+    "rev": "3192003",
+    "sha256": "1p083q05cmmlma7flf8gl24kbpy5v8n91wmg93jffigxk58vr5rn",
+    "version": "23.9"
   },
   "worker": {
     "path": "worker/tags/4.9.20",
