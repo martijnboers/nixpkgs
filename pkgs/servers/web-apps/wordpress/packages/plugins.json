@@ -48,10 +48,10 @@
     "version": "6.0.1"
   },
   "cookie-notice": {
-    "path": "cookie-notice/tags/2.5.3",
-    "rev": "3194942",
-    "sha256": "08n66wdllj71mlli3drzkvi51hk43r269mqxp4i9h9xjh5aj7r6l",
-    "version": "2.5.3"
+    "path": "cookie-notice/tags/2.5.4",
+    "rev": "3198392",
+    "sha256": "1pybzccmym6rpkmf366wx09f94v2v35yvhx33jc1k332zc5ccl90",
+    "version": "2.5.4"
   },
   "disable-xml-rpc": {
     "path": "disable-xml-rpc/tags/1.0.1",
@@ -59,11 +59,23 @@
     "sha256": "03vay6j7ac44pg55hlm02lglm3ggmjxdq95dhh0cmavbiafimhqq",
     "version": "1.0.1"
   },
+  "drag-and-drop-multiple-file-upload-contact-form-7": {
+    "path": "drag-and-drop-multiple-file-upload-contact-form-7/tags/1.3.8.5",
+    "rev": "3187631",
+    "sha256": "0hdc8dz1fnxy20a3zg2l53q2cswi7spbmlc5nv27vw12qms5kqq1",
+    "version": "1.3.8.5"
+  },
   "embed-extended": {
     "path": "embed-extended/tags/1.4.0",
     "rev": "2982701",
     "sha256": "1qfxy9rp6ipp6r6m70vr30clbm2akssra4jbk8fss3qiz85rmfxa",
     "version": "1.4.0"
+  },
+  "flamingo": {
+    "path": "flamingo/tags/2.5",
+    "rev": "3058027",
+    "sha256": "0j3hj59d1hs2lpbznaxfz3bba1brzspzil71adsxfac65gihz8gv",
+    "version": "2.5"
   },
   "forminator": {
     "path": "forminator/tags/1.36.3",
@@ -72,9 +84,9 @@
     "version": "1.36.3"
   },
   "gutenberg": {
-    "path": "gutenberg/trunk",
-    "rev": "3193419",
-    "sha256": "1769bs6ii9li6hskq0z5hfpa14h68vjlvj1902zqsg31azx7sqjc",
+    "path": "gutenberg/tags/19.7.0",
+    "rev": "3198476",
+    "sha256": "18k4l7mg9ib8kxb5n4ffqv3xm71yx4fqjklrbrczrjv3i2k9kira",
     "version": "19.7.0"
   },
   "hcaptcha-for-forms-and-more": {
@@ -108,10 +120,10 @@
     "version": "3.0.3"
   },
   "lightbox-photoswipe": {
-    "path": "lightbox-photoswipe/tags/5.5.1",
-    "rev": "3186048",
-    "sha256": "0a47hccpq9b6cya8bccm3impxj0k5s2g8mga9jgrr1dysbr0gx31",
-    "version": "5.5.1"
+    "path": "lightbox-photoswipe/tags/5.5.2",
+    "rev": "3199287",
+    "sha256": "0bs12vqbi58q2aw3im2yx18vq71c4ivci17c0wh3hls3z4wd4xha",
+    "version": "5.5.2"
   },
   "login-lockdown": {
     "path": "login-lockdown/tags/2.11",

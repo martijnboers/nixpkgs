@@ -40,5 +40,7 @@
   "wp-user-avatars": "gpl2Plus",
   "wpforms-lite": "gpl2Plus",
   "wp-file-upload": "free",
-  "contact-form-7": "free"
+  "contact-form-7": "free",
+  "drag-and-drop-multiple-file-upload-contact-form-7": "free",
+  "flamingo": "free"
 }
